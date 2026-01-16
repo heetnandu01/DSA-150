@@ -1,0 +1,20 @@
+// leetcode Problem : https://leetcode.com/problems/minimum-size-subarray-sum/description/
+
+public class two {
+       public int minSubArrayLen(int target, int[] nums) {
+       int sum = 0;
+       int left = 0;
+       int minlength = Integer.MAX_VALUE;
+       for(int right = 0;right < nums.length;right++){
+        sum = sum + nums[right];
+
+        while(sum >= target){
+            int currentLength = right - left  + 1;
+            minlength = Math.min(minlength,right - left  + 1);
+            sum = sum - nums[left];
+            left++;
+        }
+       }
+       return minlength == Integer.MAX_VALUE ? 0 : minlength;
+    } 
+}
