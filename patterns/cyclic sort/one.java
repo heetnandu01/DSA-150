@@ -1,6 +1,6 @@
 // gfg problem : https://www.geeksforgeeks.org/problems/sort-an-array-which-contains-1-to-n-values-using-mathematical-formula/1
 
-public class one {
+class One {
         int[] sortArray(int arr[]) {
         int i  = 0;
         

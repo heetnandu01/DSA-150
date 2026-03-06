@@ -1,6 +1,6 @@
 // leetcode Problem : https://leetcode.com/problems/squares-of-a-sorted-array/
 
-class six {
+class Six {
         public int[] sortedSquares(int[] nums) {
         int n = nums.length;
         int result [] = new int[n];

@@ -1,6 +1,6 @@
 //leetcode problem : https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 
-public class three {
+class Three {
       public int[] searchRange(int[] nums, int target) {
         int n = nums.length;
         int low = 0;

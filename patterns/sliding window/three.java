@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 
-class three {
+class Three {
     public int longestKSubstr(String s, int k) {
         int left = 0, maxLen = -1;
         HashMap<Character, Integer> map = new HashMap<>();

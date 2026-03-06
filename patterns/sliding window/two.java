@@ -1,6 +1,6 @@
 // leetcode Problem : https://leetcode.com/problems/minimum-size-subarray-sum/description/
 
-public class two {
+class Two {
        public int minSubArrayLen(int target, int[] nums) {
        int sum = 0;
        int left = 0;

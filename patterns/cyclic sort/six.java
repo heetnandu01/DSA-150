@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-class six {
+class Six {
       public int firstMissingPositive(int[] nums) {
         Arrays.sort(nums);
         int target = 1;

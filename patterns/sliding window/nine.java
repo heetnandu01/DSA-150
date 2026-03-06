@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-class nine {
+class Nine {
         public int minRemoval(int[] nums, int k) {
         Arrays.sort(nums);
         int n = nums.length;

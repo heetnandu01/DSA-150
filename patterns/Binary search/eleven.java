@@ -1,6 +1,6 @@
 // leetcode Problem : https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/
 
-class eleven {
+class Eleven {
     public int minDays(int[] bloomDay, int m, int k) {
         int n = bloomDay.length;
         if (n < m * k) return -1;

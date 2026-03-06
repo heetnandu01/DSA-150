@@ -1,6 +1,6 @@
 // leetcode problem : https://leetcode.com/problems/maximum-subarray/description/
 
-class one {
+class One {
         public int maxSubArray(int[] nums) {
         int maxsum = nums[0];
         int currentSum = 0;

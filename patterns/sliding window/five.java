@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 
-class five {
+class Five {
       public int lengthOfLongestSubstring(String s) {
         int left = 0;
         int maxlen = 0;

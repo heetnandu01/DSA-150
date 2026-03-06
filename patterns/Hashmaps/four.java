@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 
-class four {
+class Four {
       public boolean canConstruct(String ransomNote, String magazine) {
         HashMap<Character, Integer> hash = new HashMap<>();
         for (int i = 0; i < magazine.length(); i++) {

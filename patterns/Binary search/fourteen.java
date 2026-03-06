@@ -1,6 +1,6 @@
 //leetcode problem : https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/
 
-class fourteen {
+class Fourteen {
      public int maximumCandies(int[] candies, long k) {
         int low = 1;
         int answer = 0;

@@ -1,6 +1,6 @@
 // leetcode Problem : https://leetcode.com/problems/find-pivot-index/description/
 
-class two {
+class Two {
       public int pivotIndex(int[] nums) {
         int n = nums.length;
         int [] sumsleft = new int [n];

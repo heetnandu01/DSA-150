@@ -2,7 +2,7 @@
 
 import java.util.Stack;
 
-class six {
+class Six {
     
     public String removeDuplicates(String s, int k) {
         Stack<int[]> stack = new Stack<>();

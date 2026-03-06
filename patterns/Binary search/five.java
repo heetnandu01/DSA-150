@@ -1,6 +1,6 @@
 // leetcode problem : https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
 
-class five {
+class Five {
     public int peakIndexInMountainArray(int[] arr) {
         int low = 0;
         int high = arr.length - 1;

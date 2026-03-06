@@ -1,6 +1,6 @@
 //leetcode problem : https://leetcode.com/problems/h-index-ii/description/
 
-class thirteen {
+class Thirteen {
       public int hIndex(int[] citations) {
         int n = citations.length;
         int low = 0;

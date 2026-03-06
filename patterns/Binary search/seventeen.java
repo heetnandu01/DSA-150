@@ -1,6 +1,6 @@
 // leetcode problem : https://leetcode.com/problems/split-array-largest-sum/description/
 
-class seventeen {
+class Seventeen {
      public int splitArray(int[] nums, int k) {
         int left = 0, right = 0;
 

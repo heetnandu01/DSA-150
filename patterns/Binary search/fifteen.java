@@ -1,6 +1,6 @@
 // leetcode Problem : https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/
 
-class fifteen {
+class Fifteen {
      public int shipWithinDays(int[] weights, int days) {
         int low = 0, high = 0;
         for (int w : weights) {

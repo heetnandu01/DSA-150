@@ -1,6 +1,6 @@
 // leetcode Problem: https://leetcode.com/problems/circular-array-loop/description/
 
-class nine {
+class Nine {
        public boolean circularArrayLoop(int[] nums) {
         int n = nums.length;
         for (int i = 0; i < n; i++) {

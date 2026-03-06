@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 
-class four {
+class Four {
        public int totalFruit(int[] fruits) {
         int left = 0,maxlen = 0;
         HashMap<Integer,Integer> hash = new HashMap<>();

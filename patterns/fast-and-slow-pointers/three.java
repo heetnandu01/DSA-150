@@ -1,6 +1,6 @@
 // leetcode problem : https://leetcode.com/problems/happy-number/
 
-class three {
+class Three {
     public boolean isHappy(int n) {
         if (n == 1 || n == 7) {
             return true;

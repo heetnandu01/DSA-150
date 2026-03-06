@@ -1,6 +1,6 @@
 // GFG Problem : https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1
 
-class sixteen {
+class Sixteen {
     public int findPages(int[] arr, int k) {
         int n = arr.length;
         if(k > n)return -1;

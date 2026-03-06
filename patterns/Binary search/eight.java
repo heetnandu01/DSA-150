@@ -1,6 +1,6 @@
 // GFG Problem : https://www.geeksforgeeks.org/problems/rotation4723/1
 
-class eight {
+class Eight {
      public int findKRotation(int arr[]) {
         int low = 0;
         int high = arr.length - 1;

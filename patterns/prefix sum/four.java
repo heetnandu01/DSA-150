@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 
-class four {
+class Four {
       public int findMaxLength(int[] nums) {
         HashMap<Integer,Integer> hash = new HashMap<>();
         hash.put(0,-1);

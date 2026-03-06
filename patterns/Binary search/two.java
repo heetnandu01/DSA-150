@@ -1,6 +1,6 @@
 // GFG Problem : https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1
 
-public class two {
+class Two {
         public int findCeil(int[] arr, int x) {
         int n = arr.length;
         int low = 0;

@@ -1,6 +1,6 @@
 // leetcode problem : https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 
-class nine {
+class Nine {
         public int search(int[] nums, int target) {
         int low = 0;
         int high = nums.length - 1;

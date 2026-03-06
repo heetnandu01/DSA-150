@@ -1,6 +1,6 @@
 // leetcode problem https://leetcode.com/problems/find-peak-element/description
 
-class six {
+class Six {
         public int findPeakElement(int[] nums) {
         int low = 0;
         int high = nums.length-1;

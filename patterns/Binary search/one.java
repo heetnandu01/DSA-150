@@ -1,6 +1,6 @@
 // leetcode problem : https://leetcode.com/problems/binary-search/description/
 
-public class one {
+class One {
       public int search(int[] nums, int target) {
         int low = 0;
         int high = nums.length-1;

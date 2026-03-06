@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-class twelve {
+class Twelve {
         public int aggressiveCows(int[] stalls, int k) {
         Arrays.sort(stalls);
         int n = stalls.length;

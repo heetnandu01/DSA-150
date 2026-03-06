@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 
-class six {
+class Six {
     public int characterReplacement(String s, int k) {
         int left = 0, maxlen = -1;
         int maxfreq = 0;
