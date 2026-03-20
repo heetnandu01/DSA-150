@@ -3,7 +3,7 @@
 import java.util.Arrays;
 
 class PMergeIntervalsFive {
-        public int minMeetingRooms(int[] start, int[] end) {
+        public int minMeetingRooms(int[] start, int[] end) { 
         Arrays.sort(start);
         Arrays.sort(end);
         int n = start.length;
