@@ -1,6 +1,6 @@
 // leetcode Problem : https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1
 
-class Two {
+class PTwoPointersTwo {
       void segregate0and1(int[] arr) {
         int n = arr.length;
         int i = 0;

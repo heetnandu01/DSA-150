@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-class Ten {
+class PBinarySearchTen {
       public int minEatingSpeed(int[] piles, int h) {
         int l = 1;
         int r = Arrays.stream(piles).max().getAsInt();

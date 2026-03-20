@@ -2,7 +2,7 @@
 
 import java.util.Stack;
 
-class Four {
+class PStacksFour {
       public int[] dailyTemperatures(int[] temperatures) {
         int n = temperatures.length;
         int [] result = new int[n];

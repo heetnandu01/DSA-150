@@ -1,6 +1,6 @@
 // leetcode problem : https://leetcode.com/problems/maximum-sum-circular-subarray/description/
 
-class Six {
+class PKadaneAlgorithmSix {
         public int maxSubarraySumCircular(int[] nums) {
         int maxsum = nums[0];
         int minsum = nums[0];

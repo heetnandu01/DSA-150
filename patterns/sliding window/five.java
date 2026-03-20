@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 
-class Five {
+class PSlidingWindowFive {
       public int lengthOfLongestSubstring(String s) {
         int left = 0;
         int maxlen = 0;

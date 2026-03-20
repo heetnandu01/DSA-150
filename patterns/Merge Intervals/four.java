@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-class four {
+class PMergeIntervalsFour {
        static boolean isIntersect(int[][] intervals) {
         // Code Here
         Arrays.sort(intervals,(a,b) -> a[0] - b[0]);

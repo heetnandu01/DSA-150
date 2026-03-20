@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-class Six {
+class PCyclicSortSix {
       public int firstMissingPositive(int[] nums) {
         Arrays.sort(nums);
         int target = 1;

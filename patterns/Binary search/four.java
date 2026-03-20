@@ -1,6 +1,6 @@
 // GFG Problem : https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1
 
-class Four {
+class PBinarySearchFour {
       int countFreq(int[] arr, int target) {
         int n = arr.length;
         int low = 0;

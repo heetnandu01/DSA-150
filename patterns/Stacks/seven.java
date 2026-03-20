@@ -2,7 +2,7 @@
 
 import java.util.Stack;
 
-class Seven {
+class PStacksSeven {
      public String simplifyPath(String path) {
         Stack<String> red = new Stack<>();
         String[] blues = path.split("/");

@@ -2,7 +2,7 @@
 
 import java.util.Stack;
 
-class Two {
+class PStacksTwo {
         public boolean isValid(String s) {
         Stack<Character> blue = new Stack<>();
         for(int i = 0;i<s.length();i++){

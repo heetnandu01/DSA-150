@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 
-class One {
+class PPrefixSumOne {
     public int subarraySum(int[] nums, int k) {
         int currentSum = 0;
         int count = 0;

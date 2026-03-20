@@ -1,6 +1,6 @@
 // leetcode problem : https://leetcode.com/problems/missing-number/
 
-class Two {
+class PCyclicSortTwo {
     public int missingNumber(int[] nums) {
         int n = nums.length;
         for (int i = 0; i < nums.length; i++) {

@@ -1,6 +1,6 @@
 // leetcode problem : https://leetcode.com/problems/maximum-product-subarray/description/
 
-class Three {
+class PKadaneAlgorithmThree {
     public int maxProduct(int[] nums) {
         int maxsum = nums[0];
         int minsum = nums[0];

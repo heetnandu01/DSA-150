@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 
-class Six {
+class PSlidingWindowSix {
     public int characterReplacement(String s, int k) {
         int left = 0, maxlen = -1;
         int maxfreq = 0;

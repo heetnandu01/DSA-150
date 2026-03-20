@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 
-class Three {
+class PHashmapsThree {
         public int longestPalindrome(String s) {
         HashMap<Character, Integer> hash = new HashMap<>();
         int count = 0;

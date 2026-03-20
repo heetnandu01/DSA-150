@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 
-class Four {
+class PPrefixSumFour {
       public int findMaxLength(int[] nums) {
         HashMap<Integer,Integer> hash = new HashMap<>();
         hash.put(0,-1);

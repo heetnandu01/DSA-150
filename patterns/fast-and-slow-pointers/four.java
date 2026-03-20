@@ -1,6 +1,6 @@
 // leetcode problem : https://leetcode.com/problems/find-the-duplicate-number/description/
 
-class Four {
+class PFastAndSlowPointersFour {
     public int findDuplicate(int[] nums) {
         int slow = nums[0];
         int fast = nums[0];

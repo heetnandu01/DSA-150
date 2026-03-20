@@ -1,6 +1,6 @@
 // leetcode problem : https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/
 
-class Five {
+class PKadaneAlgorithmFive {
     public int maxAbsoluteSum(int[] nums) {
         int maxsum = nums[0];
         int minsum = Integer.MAX_VALUE;

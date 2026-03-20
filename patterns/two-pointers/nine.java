@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-class Nine {
+class PTwoPointersNine {
      long countTriplets(int n, int sum, long arr[]) {
         Arrays.sort(arr);
         long count = 0;

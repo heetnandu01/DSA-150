@@ -1,6 +1,6 @@
 // leetcode Problem : https://leetcode.com/problems/minimum-size-subarray-sum/description/
 
-class Two {
+class PSlidingWindowTwo {
        public int minSubArrayLen(int target, int[] nums) {
        int sum = 0;
        int left = 0;

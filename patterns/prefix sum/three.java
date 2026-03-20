@@ -1,6 +1,6 @@
 // leetcode Problem : 
 
-class Three {
+class PPrefixSumThree {
       public int subarraysDivByK(int[] nums, int k) {
         int currentsum = 0;
         int count = 0;

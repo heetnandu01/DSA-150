@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-class Eight {
+class PTwoPointersEight {
         public int threeSumClosest(int[] nums, int target) {
         Arrays.sort(nums);
         int closestSum = nums[0] + nums[1] + nums[2];

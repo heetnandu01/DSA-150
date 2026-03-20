@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 
-class Two {
+class PHashmapsTwo {
     public int maxNumberOfBalloons(String text) {
         HashMap<Character, Integer> hash = new HashMap<>();
         int count = 0;

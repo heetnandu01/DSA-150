@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 
-class Seven {
+class PSlidingWindowSeven {
     public int longestOnes(int[] nums, int k) {
         int left = 0, maxlen = 0;
         int zerocount = 0;

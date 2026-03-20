@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class two {
+class PMergeIntervalsTwo {
      public int[][] insert(int[][] intervals,int[] newInterval) {
         int newStart = newInterval[0];
         int newEnd = newInterval[1];

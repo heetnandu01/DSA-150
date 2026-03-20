@@ -1,6 +1,6 @@
 // leetcode problem : https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/
 
-class Four {
+class PKadaneAlgorithmFour {
     public int maximumSum(int[] arr) {
         int n = arr.length;
         int prevwithdel = 0;

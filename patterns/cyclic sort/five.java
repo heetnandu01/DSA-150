@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class Five {
+class PCyclicSortFive {
         public List<Integer> findDuplicates(int[] nums) {
         List<Integer> ans = new ArrayList<>();
         for(int i = 0;i<nums.length;i++){
